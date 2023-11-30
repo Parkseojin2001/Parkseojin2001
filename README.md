@@ -27,10 +27,10 @@
 
 <div align = "center">
   <a href="s">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=21011645" width="41%" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=21011645" width="32%" />
 </a>
   <a href="s">
-  <img src="https://leetcard.jacoblin.cool/seojin0510612?"/>
+  <img src="https://leetcard.jacoblin.cool/seojin0510612? "width = "39%" />
 </a>
 </div>
 
@@ -46,10 +46,6 @@
   
   <a href="s">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkseojin2001&layout=compact&theme=tokyonight" width="32%" />
-  </a>
-
-  <a href="s">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parkseojin2001&theme=tokyonight" width="75%" />
   </a>
  
 </div>
