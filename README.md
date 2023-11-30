@@ -29,7 +29,6 @@
   <a href="s">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=21011645" width="41%" />
 </a>
-
   <a href="s">
   <img src="https://leetcard.jacoblin.cool/seojin0510612?"/>
 </a>
