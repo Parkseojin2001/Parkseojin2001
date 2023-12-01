@@ -21,7 +21,6 @@
   <p align = "center">
     <a href="https://github.com/Parkseojin2001"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Parkseojin2001"/></a>&nbsp
     <a href="seojin0510612@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=seojin0510612@gmail.com"/></a>&nbsp
-    <a href="https://www.notion.so/a7cad712d9144dbf8ab0d0d04d7bcedf?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/a7cad712d9144dbf8ab0d0d04d7bcedf?pvs=4"/></a>&nbsp
   </p>
 </div>
 
