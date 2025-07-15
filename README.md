@@ -49,7 +49,7 @@
 </a>
   
   <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkseojin2001&layout=compact&theme=tokyonight" width="32%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkseojin2001&langs_count=6&layout=compact&theme=tokyonight" width="32%" />
   </a>
  
 </div>
