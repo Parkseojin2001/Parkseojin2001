@@ -39,20 +39,5 @@
 </div>
 
 
------
-
-<div align = "center">
-  <h3>📊 Github state</h3>
-  
-  <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parkseojin2001&layout=compact&theme=github_light" width="42%" />
-</a>
-  <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkseojin2001&langs_count=6&layout=compact&theme=github_light" width="33%" />
-  </a>
- 
-</div>
-
-
 
 
